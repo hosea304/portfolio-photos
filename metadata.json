@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": 1,
-      "title": "Sunset Beach",
-      "description": "Beautiful golden hour at the beach",
-      "filename": "sunset-beach.jpg",
-      "size": "large"
-    },
-    {
       "id": 2,
       "title": "Mountain View",
       "description": "Snow capped mountains",
