@@ -27,6 +27,13 @@
       "description": "Bagus Banget",
       "filename": "test.png",
       "size": "large"
+    },
+    {
+      "id": 5,
+      "title": "Kiri 3",
+      "description": "dwawda",
+      "filename": "kiri-3.png",
+      "size": "medium"
     }
   ]
 }
