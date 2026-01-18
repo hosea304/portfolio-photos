@@ -20,6 +20,13 @@
       "description": "Urban landscape at night",
       "filename": "city-lights.jpg",
       "size": "small"
+    },
+    {
+      "id": 4,
+      "title": "Foto Kursi",
+      "description": "Bagus Banget",
+      "filename": "test.png",
+      "size": "large"
     }
   ]
 }
