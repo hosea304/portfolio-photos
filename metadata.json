@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": 2,
-      "title": "Mountain View",
-      "description": "Snow capped mountains",
-      "filename": "mountain-view.jpg",
-      "size": "medium"
-    },
-    {
       "id": 3,
       "title": "City Lights",
       "description": "Urban landscape at night",
