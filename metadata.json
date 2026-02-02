@@ -6,6 +6,13 @@
       "description": "Alur Kerja Dari Magang",
       "filename": "alur-kerja.png",
       "size": "medium"
+    },
+    {
+      "id": 2,
+      "title": "Dashboard Cartiera",
+      "description": "DJAKwja",
+      "filename": "dashboardcartiera.png",
+      "size": "large"
     }
   ]
 }
